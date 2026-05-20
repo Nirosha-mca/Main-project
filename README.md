@@ -3,13 +3,20 @@
 ## 📊 Project Overview
 The “Uncovering Trends in Nigeria’s Sales Data” project is a data analytics and business intelligence project focused on analyzing sales transactions across different regions, products, customers, and sales channels in Nigeria. The main objective is to clean raw sales data, identify meaningful business patterns, and generate insights that support better decision-making. The dataset commonly includes customer information, product categories, sales quantity, revenue, pricing, discounts, and regional performance.
 
-## 📊 Project Objective 
+## 📊 Project Objective
+
 -- Analyze overall sales performance
+
 -- Identify high-performing and low-performing products
+
 -- Understand customer purchasing behavior
+
 -- Detect regional and seasonal sales trends
+
 -- Evaluate profit and revenue generation
+
 -- Build interactive dashboards for visualization
+
 -- Support business decision-making using data insights
 
 ## 🗂️ Data Source
